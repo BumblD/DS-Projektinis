@@ -1,0 +1,56 @@
+1;Islandijos pl. - Vaidoto g.
+2;Islandijos pl. - Parodos G. - Kauno pilis
+4;Islandijos pl. - Vaidoto g.
+5;Petrašiūnai - Varnių g.
+7;Partizanų g. - Kaniūkai
+8;Draugystės g. - Varnių g.
+9;Petrašiūnai - Klinikos
+10;Partizanų g. - Kėdainių g.
+11;Islandijos pl. - Kaniūkai
+12;Petrašiūnai - Klinikos
+13;Islandijos pl. - Centras
+14;Islandijos pl. - Centras
+15;Partizanų g. - Centras
+16;Partizanų g. - Centras
+3;Kauno klinikinė ligoninė - Onkologijos ligoninė
+6;Technikos g. - Garliava
+17;Romainiai - Neveronių g.
+18;Geležinkelio stotis - A. Stulginskio universitetas
+19;Skubios pagalbos centras - Palemono keramika
+20;Partizanų g. - Urmo turgus -Prezidento V. Adamkaus gimnazija
+21;Kauno pilis - Mega
+22;Geležinkelio stotis - Kauno pilis
+23;Domeikava - Rokai
+24;Kauno pilis - Šiaurės pr.
+26;Kauno pienas (Kitron) - Kazliškiai
+28;Urmo turgus (Partizanų g.) - Švenčionių g.
+29;Kauno oro uostas - Geležinkelio stotis
+31;Technikumo g. - S. Dariaus ir S. Girėno g. - Mega
+32;Geležinkelio stotis - Ringaudai
+33;Technikos g. - Biruliškių g.
+34;Kauno klinikinė ligoninė - Prancūzų g.
+35;Vytėnai - Seniava
+36;Prūsų g. - Technikos g.
+37;Juozo Grušo meno gimnazija - Partizanų g. (Kauno termofikacijos elektrinė)
+38;Geležinkelio stotis - Mega
+39;Romainiai - Kauno klinikinė ligoninė - Neveronių g. (Neveronys)
+40;Urmo turgus (Partizanų g.) - Kauno klinikinė ligoninė
+41;Chemijos g. - Kaniūkai
+42;Technikumo g. - Respublikinė Kauno ligoninė
+43;Vičiūnai (Slaugos ligoninė) - Kauno pienas
+44;Kauno pilis - Liucijanavos g.
+45;Respublikinė Kauno ligoninė - Palemonas
+46;Šlienava (Žiegždriai) - Geležinkelio stotis
+47;Kleboniškis - Onkologijos ligoninė (Kreidos g.)
+48;Raudondvaris - Kauno pilis
+49;Kauno pilis - Lampėdžiai
+61;Geležinkelio stotis (Vainatrakio kapinės) - Girininkai
+63;Kaniūkai - Mega
+65;Kazliškiai - Bitininkų g. - Geležinkelio stotis
+67;Tirkiliškiai - Skubios pagalbos centras
+52;Romainiai - Vaišvydava
+53;Partizanų g. - Rokai
+54;Sargėnai - Onkologijos ligoninė
+55;Kauno klinikinė ligoninė - Palemonas
+56;Ringaudai - Neveronys
+57;Urmo turgus - Partizanų g. - 9-ojo forto g.

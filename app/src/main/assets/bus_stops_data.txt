@@ -1,0 +1,1682 @@
+1;Islandijos pl. - Vaidoto g.
+Islandijos pl.
+S. Žukausko g.
+Ašigalio g.
+Ukmergės g.
+Topolis
+Žeimenos g.
+Akių klinika
+Klinikos
+V. Lašo g.
+P. Dovydaičio g.
+Utenos g.
+Aukštaičių g.
+Žemaičių g.
+E. Ožeškienės g.
+L. Sapiegos g.
+Studentų skveras
+Gedimino g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+Kaunakiemio g.
+Geležinkelio tiltas
+Geležinkelio g.
+Šančių poliklinika
+Švč. Jėzaus Širdies bažnyčia
+Gudų g.
+Šančių kapinės
+Tilto g.
+Smėlio g.
+KTU inžinerijos licėjus
+Birutės g.
+2;Islandijos pl. - Parodos G. - Kauno pilis
+Islandijos pl.
+S. Žukausko g.
+Ašigalio g.
+Ukmergės g.
+Topolis
+Žeimenos g.
+Akių klinika
+Eivenių g.
+P. Dovydaičio g.
+K. Petrausko g.
+Ledo arena
+Sporto g.
+Gedimino g.
+S. Daukanto g.
+Muzikinis teatras
+Vilniaus g.
+Kauno pilis
+4;Islandijos pl. - Vaidoto g.
+Islandijos pl.
+S. Žukausko g.
+Ašigalio g.
+Ukmergės g.
+Topolis
+Žeimenos g.
+Akių klinika
+Klinikos
+V. Lašo g.
+P. Dovydaičio g.
+K. Petrausko g.
+Ledo arena
+Sporto g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+Kaunakiemio g.
+Geležinkelio tiltas
+Geležinkelio g.
+Šančių poliklinika
+Švč. Jėzaus Širdies bažnyčia
+Gudų g.
+Šančių kapinės
+Tilto g.
+Smėlio g.
+KTU inžinerijos licėjus
+Birutės g.
+5;Petrašiūnai - Varnių g.
+Petrašiūnai
+Elektros tinklai
+Armatūrininkų g.
+Kausta
+Ketaus liejykla
+Petrašiūnų mokymo centras
+6-asis fortas
+Pašilės g.
+Breslaujos g.
+Dainų slėnis
+Viadukas
+Geležinkelio stotis
+Autobusų stotis
+Griunvaldo g.
+Gedimino g.
+S. Daukanto g.
+Muzikinis teatras
+Vilniaus g.
+Kauno pilis
+A. Kriščiukaičio g.
+Neries krantinė
+K. Griniaus g.
+Bijūnų g.
+Vilijampolės turgavietė
+Panerių g.
+Varnių g.
+7;Partizanų g. - Kaniūkai
+Partizanų g.
+Technikos profesinio mokymo centras
+Kauno saulėtekis
+V. Krėvės pr.
+Kovo 11-osios g.
+Draugystės parkas
+Kovo 11-osios gimnazija
+Girstutis
+6-asis fortas
+Pašilės g.
+Breslaujos g.
+Dainų slėnis
+Viadukas
+Geležinkelio stotis
+Autobusų stotis
+Griunvaldo g.
+Gedimino g.
+S. Daukanto g.
+Muzikinis teatras
+Vilniaus g.
+Kauno pilis
+Jurbarko g.
+Kėdainių g.
+Kauno autobusai
+Jūros g.
+Žagarės g.
+Inkaro g.
+Vyžuonos g.
+Atrama
+Gervių g.
+Kaniūkų 1-oji g.
+8;Draugystės g. - Varnių g.
+Draugystės g.
+Gamyklos
+Kauno gelžbetonis
+Urmas
+Kauno kolegija
+V. Krėvės pr.
+Kovo 11-osios g.
+Rėda
+Draugystės parkas
+Birželio 23-iosios g.
+A. Baranausko g.
+Gražinos g.
+Kauno aklųjų ir silpnaregių centras
+Technikos kolegija
+Nuokalnės g.
+Jonavos g.
+Vilijampolės turgavietė
+Panerių g.
+Varnių g.
+9;Petrašiūnai - Klinikos
+Petrašiūnai
+Elektros tinklai
+Armatūrininkų g.
+Kausta
+Ketaus liejykla
+Petrašiūnų mokymo centras
+Vienybės g.
+Girstutis
+Kovo 11-osios gimnazija
+Simono Daukanto progimnazija
+„Vyturio“ gimnazija
+A. Baranausko g.
+Gražinos g.
+Kauno aklųjų ir silpnaregių centras
+Technikos kolegija
+V. Lašo g.
+Klinikos
+10;Partizanų g. - Kėdainių g.
+Partizanų g.
+Technikos profesinio mokymo centras
+Kauno saulėtekis
+V. Krėvės pr.
+Kovo 11-osios g.
+Rėda
+Draugystės parkas
+Birželio 23-iosios g.
+A. Baranausko g.
+Gražinos g.
+Kauno aklųjų ir silpnaregių centras
+Utenos g.
+Aukštaičių g.
+Žemaičių g.
+Laisvės alėja
+Kauno pilis
+Jurbarko g.
+Kėdainių g. (Raudondvario pl.)
+Kėdainių g. (Kėdainių g.)
+11;Islandijos pl. - Kaniūkai
+Islandijos pl.
+S. Žukausko g.
+Eiguliai
+Čečėnijos aikštė
+V. Landsbergio-Žemkalnio g.
+Kalniečių poliklinika
+Baldų parduotuvė
+Ortopedijos technika
+Mituvos g.
+Kauno aklųjų ir silpnaregių centras
+Utenos g.
+Aukštaičių g.
+Žemaičių g.
+Laisvės alėja
+Kauno pilis
+Jurbarko g.
+Kėdainių g.
+Kauno autobusai
+Jūros g.
+Žagarės g.
+Inkaro g.
+Vyžuonos g.
+Atrama
+Gervių g.
+Kaniūkų 1-oji g.
+12;Petrašiūnai - Klinikos
+Petrašiūnai
+Elektros tinklai
+Armatūrininkų g.
+Kausta
+Ketaus liejykla
+Petrašiūnų mokymo centras
+Vienybės g.
+Girstutis
+Kovo 11-osios gimnazija
+Draugystės žiedas
+Dainava
+Urmas
+Kauno kolegija
+V. Krėvės pr.
+Turgavietė
+Pakraščio g.
+V. Landsbergio-Žemkalnio g.
+Čečėnijos aikštė
+Eiguliai
+S. Žukausko g.
+Ašigalio g.
+Ukmergės g.
+Topolis
+Žeimenos g.
+Akių klinika
+Klinikos
+13;Islandijos pl. - Centras
+Islandijos pl.
+„Pilėnų“ progimnazija
+Pėsčiųjų tiltas
+Šiaurės pr.
+Ukmergės g.
+Ašigalio g.
+S. Žukausko g.
+Eiguliai
+Čečėnijos aikštė
+V. Landsbergio-Žemkalnio g.
+Kalniečių poliklinika
+Baldų parduotuvė
+Ortopedijos technika
+Mituvos g.
+Kauno aklųjų ir silpnaregių centras
+Utenos g.
+Aukštaičių g.
+Žemaičių g.
+E. Ožeškienės g.
+L. Sapiegos g.
+Studentų skveras
+Gedimino g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+14;Islandijos pl. - Centras
+Islandijos pl.
+„Pilėnų“ progimnazija
+Pėsčiųjų tiltas
+Šiaurės pr.
+Ukmergės g.
+Ašigalio g.
+S. Žukausko g.
+Eiguliai
+Čečėnijos aikštė
+V. Landsbergio-Žemkalnio g.
+Pakraščio g.
+Turgavietė
+Draugystės parkas
+Kovo 11-osios gimnazija
+Girstutis
+6-asis fortas
+Pašilės g.
+Breslaujos g.
+Dainų slėnis
+Viadukas
+Geležinkelio stotis
+15;Partizanų g. - Centras
+Partizanų g.
+Technikos profesinio mokymo centras
+Kauno saulėtekis
+Kauno kolegija
+Taikos pr.
+Urmas
+Dainava
+Kovo 11-osios gimnazija
+Girstutis
+6-asis fortas
+Pašilės g.
+Breslaujos g.
+Dainų slėnis
+Viadukas
+Geležinkelio stotis
+16;Partizanų g. - Centras
+Partizanų g.
+Technikos profesinio mokymo centras
+Kauno saulėtekis
+Kauno kolegija
+Taikos pr.
+Urmas
+Dainava
+Simono Daukanto progimnazija
+„Vyturio“ gimnazija
+A. Baranausko g.
+Gražinos g.
+Kauno aklųjų ir silpnaregių centras
+Utenos g.
+Aukštaičių g.
+Žemaičių g.
+E. Ožeškienės g.
+L. Sapiegos g.
+Studentų skveras
+Gedimino g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+3;Kauno klinikinė ligoninė - Onkologijos ligoninė
+Kauno klinikinė ligoninė
+Naujakurių g.
+Apuolės g.
+Žiemgalių g.
+Baltų pr.
+Žemaičių pl.
+Mosėdžio g.
+9-ojo Forto g.
+Kuršių g.
+Šarkuvos g.
+Jotvingių g.
+A. Strazdo g.
+Kuršėnų g.
+Varnių tiltas
+Jonavos g.
+Nuokalnės g.
+V. Lašo g.
+Klinikos
+Akių klinika
+Žeimenos g.
+Topolis
+Ukmergės g.
+Ašigalio g.
+S. Žukausko g.
+Eiguliai
+Čečėnijos aikštė
+V. Landsbergio-Žemkalnio g.
+Pakraščio g.
+Turgavietė
+Rėda
+Draugystės parkas
+Birželio 23-iosios g.
+Taikos pr.
+Studentų g.
+Zoologijos sodas
+Gėlių rato g.
+Sporto g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+Kaunakiemio g.
+Geležinkelio tiltas
+Geležinkelio g.
+Šančių poliklinika
+Švč. Jėzaus Širdies bažnyčia
+Gudų g.
+Šančių kapinės
+Tilto g.
+Mažoji g.
+A. Smetonos al.
+Gailutės g.
+J. Staugaičio g.
+Kurtinių g.
+Volungių g.
+Onkologijos ligoninė
+6;Technikos g. - Garliava
+Technikos g.
+Draugystės g.
+Gamyklos
+Kauno gelžbetonis
+Urmas
+Kauno kolegija
+V. Krėvės pr.
+Turgavietė
+Kalniečių poliklinika
+Baldų parduotuvė
+Ortopedijos technika
+Mituvos g.
+Kauno aklųjų ir silpnaregių centras
+K. Petrausko g.
+Ledo arena
+Sporto g.
+Gedimino g.
+S. Daukanto g.
+Muzikinis teatras
+Karaliaus Mindaugo pr.
+Vytauto Didžiojo tiltas
+Aleksoto poliklinika
+S.Dariaus ir S.Girėno aerodromas
+Europos pr.
+Julijanavos g.
+Lazdijų g.
+2-asis fortas
+Sodai
+K. Dulksnio g.
+Ramybės g.
+Jonučiai
+Vienybės g.
+Tulpių g.
+Bažnyčia
+Biblioteka
+A. Mitkaus pagrindinė mokykla
+Rinkūnai
+17;Romainiai - Neveronių g.
+M. ir P. Šalčių g.
+Romainiškių g.
+Lubinų g.
+Kaimelės g.
+Bivylių g.
+Chodkevičių g.
+Kauno miškų urėdija
+Romainių tuberkuliozės ligoninė
+Ugnės g.
+Romainių 2-osios kapinės
+Romainių 1-osios kapinės
+Prūsų g.
+Apuolės g.
+Žiemgalių g.
+Baltų pr.
+Žemaičių pl.
+Šilainių poliklinika
+Milikoniai
+Panerių g.
+Vilijampolės turgavietė
+Jonavos g.
+Nuokalnės g.
+Technikos kolegija
+Kauno aklųjų ir silpnaregių centras
+J. Basanavičiaus al.
+A. Baranausko g.
+„Vyturio“ gimnazija
+Simono Daukanto progimnazija
+Draugystės žiedas
+Trys berželiai
+Urmas
+Elektrėnų g.
+Aksa
+Gaisrinė
+Amalė
+Naftos bazė
+Bruknių takas
+Naktigonės g.
+Pervaža
+Šilėnų g.
+S. Nėries muziejus
+Parko g.
+Palemono keramika
+Keramzito g.
+Neveronių g.
+18;Geležinkelio stotis - A. Stulginskio universitetas
+Geležinkelio stotis (M.K.Čiurlionio g.)
+Geležinkelio stotis (Vytauto pr.)
+Autobusų stotis
+Griunvaldo g.
+Gedimino g.
+S. Daukanto g.
+Muzikinis teatras
+Karaliaus Mindaugo pr.
+Vytauto Didžiojo tiltas
+Laiptai
+Marvelė
+Biblioteka
+Bublių g.
+Žirgynas
+Pilėnų g.
+Universiteto bendrabučiai
+Universiteto Mechanikos fakultetas
+Universiteto centriniai rūmai
+19;Skubios pagalbos centras - Palemono keramika
+Skubios pagalbos centras
+Žeimenos g.
+Topolis
+Ukmergės g.
+Ašigalio g.
+K. Škirpos g.
+P. Plechavičiaus g.
+Martyno Mažvydo pagrindinė mokykla
+V. Landsbergio-Žemkalnio g.
+Pakraščio g.
+Turgavietė
+V. Krėvės pr.
+Kauno kolegija
+Taikos pr.
+Degalinė
+Kauno pienas
+Regitra
+Elektrinė
+Kitron
+Upytės g.
+Ateities pl.
+Naktigonės g.
+Pervaža
+Šilėnų g.
+S. Nėries muziejus
+Parko g.
+Palemono keramika
+20;Partizanų g. - Urmo turgus -Prezidento V. Adamkaus gimnazija
+Partizanų g.
+Garažų g.
+"Urmo" turgus
+Kauno pienas
+Degalinė
+Kauno kolegija
+V. Krėvės pr.
+Turgavietė
+Kalniečių poliklinika
+Murava
+Savanorių pr.
+Šiaurinė
+Martyno Mažvydo pagrindinė mokykla
+P. Plechavičiaus g.
+S. Žukausko g.
+Ašigalio g.
+Ukmergės g.
+Šiaurės pr.
+Jonavos g.
+Mokyklos bendrabučiai
+Varnių tiltas
+P. Kalpoko g.
+Senukai
+P. Vileišio tiltas
+Kauno pilis
+Vilniaus g.
+Karaliaus Mindaugo pr.
+Vytauto Didžiojo tiltas
+Aleksoto poliklinika
+S.Dariaus ir S.Girėno aerodromas
+Europos pr.
+Bitininkų g.
+Ž. E. Žilibero g.
+Freda
+Vilties g.
+Botanikos sodas
+J. Pabrėžos g.
+Prezidento V. Adamkaus gimnazija
+21;Kauno pilis - Mega
+Kauno pilis (Jonavos g.)
+Kauno pilis (Šauklių g.)
+Ariogalos g.
+Sąjungos aikštė
+Švyturio g.
+Demokratų g.
+Kuršėnų g.
+Skaudvilės g.
+Pikulo g.
+Šiaurinio aplinkkelio tiltas
+Biurų centras
+Mega
+Stovėjimo aikštelė
+22;Geležinkelio stotis - Kauno pilis
+Geležinkelio stotis
+Aleksoto gelžbetonis
+Elevatorius
+Malūnas
+H. ir O. Minkovskių g.
+Veiverių g.
+Vytauto Didžiojo tiltas
+Karaliaus Mindaugo pr.
+Vilniaus g.
+Kauno pilis (Šauklių g.)
+Kauno pilis
+Kauno pilis (Jonavos g.)
+23;Domeikava - Rokai
+Domeikava
+Domeikavos seniūnija
+Aukščių g.
+Pakalnės g.
+Muitinės g.
+Sargėnai
+Šv. Kazimiero progimnazija
+Vytėnų g.
+9-ojo forto muziejus
+Radviliškio g.
+Mosėdžio g.
+Šilainių poliklinika
+Milikoniai
+Linkuvos g.
+M. Mažvydo g.
+Radvilų dvaro g.
+Jurbarko g.
+Kauno pilis
+E. Ožeškienės g.
+L. Sapiegos g.
+Studentų skveras
+Gedimino g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+Kaunakiemio g.
+Geležinkelio tiltas
+Geležinkelio g.
+Šančių poliklinika
+Švč. Jėzaus Širdies bažnyčia
+Gudų g.
+Šančių kapinės
+Tilto g.
+Karinis dalinys
+Jiesios pl.
+4-asis fortas
+Draustinis
+Bernardinų Plytinės g.
+Naujoji g.
+Rokakiemio g.
+Rokai
+Lazdynų g.
+Rokų seniūnija
+24;Kauno pilis - Šiaurės pr.
+Kauno pilis (Jonavos g.)
+Kauno pilis (Šauklių g.)
+Laisvės alėja
+Žemaičių g.
+Aukštaičių g.
+Utenos g.
+Kauno aklųjų ir silpnaregių centras
+Mituvos g.
+Kauniečių aptarnavimo centras „Mano Kaunas“
+Eiguliai
+K. Škirpos g.
+P. Plechavičiaus g.
+Martyno Mažvydo pagrindinė mokykla
+Šiaurinė
+Savanorių pr.
+26;Kauno pienas (Kitron) - Kazliškiai
+Kauno pienas
+Garažų g.
+Partizanų g.
+Biruliškės
+Parduotuvė
+Dvarčionių keramika
+Murava
+Kalniečių turgavietė
+Kalniečių poliklinika
+Baldų parduotuvė
+Ortopedijos technika
+Mituvos g.
+Kauno aklųjų ir silpnaregių centras
+Utenos g.
+Aukštaičių g.
+Žemaičių g.
+Laisvės alėja
+Vilniaus g.
+Karaliaus Mindaugo pr.
+Vytauto Didžiojo tiltas
+Aleksoto poliklinika
+S.Dariaus ir S.Girėno aerodromas
+Valstybinė mokesčių inspekcija
+Kalvarijos g.
+Alšėnų g.
+Juodelynės g.
+Kazliškiai
+28;Urmo turgus (Partizanų g.) - Švenčionių g.
+"Urmo" turgus
+Garažų g.
+Partizanų g.
+Biruliškės
+Parduotuvė
+Dvarčionių keramika
+Pramonės pr.
+Kauno kolegija
+Taikos pr.
+Urmas
+Dainava
+Kovo 11-osios gimnazija
+Girstutis
+6-asis fortas
+Pašilės g.
+Breslaujos g.
+Dainų slėnis
+Viadukas
+Geležinkelio stotis
+Kaunakiemio g.
+Geležinkelio tiltas
+Geležinkelio g.
+Šančių poliklinika
+Švč. Jėzaus Širdies bažnyčia
+Drobės g.
+Kauno baldai
+Senoji rampa
+Švenčionių g.
+29;Kauno oro uostas - Geležinkelio stotis
+Kauno oro uostas
+Oro uosto g.
+2-oji Karmėlava
+Rasos g.
+2-oji Karmėlava
+Balio Buračo gimnazija
+Karmėlava
+Margava
+Narėpai
+Biruliškės
+Murava
+Kalniečių turgavietė
+Kalniečių poliklinika
+Baldų parduotuvė
+Ortopedijos technika
+Mituvos g.
+Kauno aklųjų ir silpnaregių centras
+Utenos g.
+Aukštaičių g.
+Žemaičių g.
+E. Ožeškienės g.
+L. Sapiegos g.
+Studentų skveras
+Gedimino g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+Geležinkelio stotis
+31;Technikumo g. - S. Dariaus ir S. Girėno g. - Mega
+Technikumo g.
+Žvalgų g.
+Būrio g.
+2-asis fortas
+Lazdijų g.
+Julijanavos g.
+Europos pr.
+Aleksoto poliklinika
+S. Dariaus ir S. Girėno g.
+Jurgio Dobkevičiaus progimnazija
+A. Gustaičio g.
+Meteorų g.
+A. Gustaičio g.
+Jurgio Dobkevičiaus progimnazija
+S. Dariaus ir S. Girėno g.
+Vytauto Didžiojo tiltas
+Karaliaus Mindaugo pr.
+Vilniaus g.
+Kauno pilis
+Jurbarko g.
+Kėdainių g.
+Tilžės g.
+Josvainių g.
+Naujakurių g. (Josvainių g.)
+Kauno klinikinė ligoninė
+Naujakurių g. (Baltijos g.)
+Apuolės g.
+Baltijos g.
+Šilainių poliklinika
+Juozo Grušo meno gimnazija
+Jotvingių g.
+Šarkuvos g.
+Biurų centras
+Mega
+32;Geležinkelio stotis - Ringaudai
+Geležinkelio stotis
+M. K. Čiurlionio tiltas
+Vinčų g.
+Ž. E. Žilibero g.
+Bitininkų g.
+Valstybinė mokesčių inspekcija
+Suvalkiečių g.
+Pakalnės g.
+1-ojo forto g.
+Stirnų g.
+Kauno šiltadaržiai
+Noreikiškės
+Universiteto centriniai rūmai
+Akademijos miestelis
+Varžupio g.
+Gėlių g.
+Ringaudų pradinė mokykla
+Ringaudai
+Tabariškiai
+33;Technikos g. - Biruliškių g.
+Technikos g.
+Draugystės g.
+Gamyklos
+Kauno gelžbetonis
+Dainava
+Kovo 11-osios gimnazija
+Girstutis
+Policija
+Apuokų takas
+Medšarkių takas
+Chemijos g.
+Svirplių takas
+Amaliai
+Sodai
+Viržių g.
+Biruliškių g.
+34;Kauno klinikinė ligoninė - Prancūzų g.
+Kauno klinikinė ligoninė
+Labūnavos g.
+Šilainių pl.
+Baltų pr.
+Žemaičių pl.
+Šilainių poliklinika
+Milikoniai
+Panerių g.
+Vilijampolės turgavietė
+Klinikos
+P. Dovydaičio g.
+K. Petrausko g.
+Ledo arena
+Sporto g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+Breslaujos g.
+Kaišiadorių g.
+Ašmenos g.
+Jašiūnų g.
+35;Vytėnai - Seniava
+Vytėnai
+Smiltynės g.
+Salantų g.
+9-ojo forto muziejus
+Radviliškio g.
+Mosėdžio g.
+Šilainių poliklinika
+Milikoniai
+Panerių g.
+Vilijampolės turgavietė
+Jonavos g.
+P. Dovydaičio g.
+Utenos g.
+Aukštaičių g.
+Žemaičių g.
+E. Ožeškienės g.
+L. Sapiegos g.
+Studentų skveras
+Gedimino g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+M. K. Čiurlionio tiltas
+Vinčų g.
+Ž. E. Žilibero g.
+Bitininkų g.
+Europos pr.
+Julijanavos g.
+Kiečių g.
+Seniavos pl.
+Gvazdikų g.
+Alyvų g.
+36;Prūsų g. - Technikos g.
+Prūsų g.
+Šilainių pl.
+Baltų pr.
+Žemaičių pl.
+Juozo Grušo meno gimnazija
+A. Strazdo g.
+Kuršėnų g.
+Lietuvos tekstilės institutas
+Demokratų g.
+Panerių g.
+Vilijampolės turgavietė
+Jonavos g.
+Nuokalnės g.
+Technikos kolegija
+Kauno aklųjų ir silpnaregių centras
+Mituvos g.
+Ortopedijos technika
+Baldų parduotuvė
+Savas
+Turgavietė
+Draugystės parkas
+Draugystės žiedas
+Trys berželiai
+Urmas
+Kauno gelžbetonis
+Gamyklos
+Draugystės g.
+Technikos g.
+37;Juozo Grušo meno gimnazija - Partizanų g. (Kauno termofikacijos elektrinė)
+Juozo Grušo meno gimnazija
+Mosėdžio g.
+9-ojo Forto g.
+Kuršių g.
+Šarkuvos g.
+Jotvingių g.
+A. Strazdo g.
+Kuršėnų g.
+Varnių tiltas
+Vilijampolės turgavietė
+Panerių g.
+Linkuvos g.
+M. Mažvydo g.
+Radvilų dvaro g.
+Jurbarko g.
+Kauno pilis
+E. Ožeškienės g.
+L. Sapiegos g.
+Studentų skveras
+Gedimino g.
+Sporto g.
+Gėlių rato g.
+Minties rato g.
+Zoologijos sodas
+Studentų g.
+Taikos pr.
+Birželio 23-iosios g.
+Draugystės parkas
+V. Krėvės pr.
+Kauno saulėtekis
+Technikos profesinio mokymo centras
+Partizanų g.
+38;Geležinkelio stotis - Mega
+Geležinkelio stotis (M.K.Čiurlionio g.)
+Geležinkelio stotis (Vytauto pr.)
+Autobusų stotis
+Griunvaldo g.
+Kęstučio g.
+Sporto g.
+Ledo arena
+Utenos g.
+P. Dovydaičio g.
+Nuokalnės g.
+Jonavos g.
+Varnių tiltas
+Kuršėnų g.
+A. Strazdo g.
+Jotvingių g.
+Šarkuvos g.
+Kuršių g.
+Biurų centras
+Mega
+Stovėjimo aikštelė
+39;Romainiai - Kauno klinikinė ligoninė - Neveronių g. (Neveronys)
+Medekšinės g.
+Romainiai
+Kauno miškų urėdija
+Romainių tuberkuliozės ligoninė
+Ugnės g.
+Romainių 2-osios kapinės
+Romainių 1-osios kapinės
+Prūsų g.
+Labūnavos g.
+Kauno klinikinė ligoninė
+Naujakurių g.
+Apuolės g.
+Žiemgalių g.
+Baltų pr.
+Žemaičių pl.
+Šilainių poliklinika
+Milikoniai
+Linkuvos g.
+M. Mažvydo g.
+Radvilų dvaro g.
+Jurbarko g.
+Kauno pilis
+E. Ožeškienės g.
+L. Sapiegos g.
+Studentų skveras
+Gedimino g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+Breslaujos g.
+Pašilės g.
+Ketaus liejykla
+Kausta
+Kauno keliai
+Amaliai
+Sodai
+Viržių g.
+Naktigonės g.
+Pervaža
+Šilėnų g.
+S. Nėries muziejus
+Parko g.
+Palemono keramika
+Keramzito g.
+Neveronių g.
+40;Urmo turgus (Partizanų g.) - Kauno klinikinė ligoninė
+"Urmo" turgus
+Garažų g.
+Partizanų g.
+Biruliškės
+Parduotuvė
+Dvarčionių keramika
+Pramonės pr.
+V. Krėvės pr.
+Rėda
+Draugystės parkas
+Birželio 23-iosios g.
+Taikos pr.
+Studentų g.
+Zoologijos sodas
+Gėlių rato g.
+Sporto g.
+Gedimino g.
+S. Daukanto g.
+Muzikinis teatras
+Vilniaus g.
+Kauno pilis
+Ariogalos g.
+Sąjungos aikštė
+Varnių g.
+Milikoniai
+Baltijos g.
+Apuolės g.
+Naujakurių g.
+Keleivių išlaipinimo aikštelė
+41;Chemijos g. - Kaniūkai
+Chemijos g.
+Chemijos g.
+Medšarkių takas
+Apuokų takas
+Policija
+Girstutis
+Kovo 11-osios gimnazija
+Draugystės žiedas
+Dainava
+Urmas
+Kauno kolegija
+V. Krėvės pr.
+Turgavietė
+Kalniečių poliklinika
+Baldų parduotuvė
+Ortopedijos technika
+Mituvos g.
+Kauno aklųjų ir silpnaregių centras
+Technikos kolegija
+Sukilėlių pr.
+Klinikos
+Eivenių g.
+Nuokalnės g.
+Jonavos g.
+Vilijampolės turgavietė
+Panerių g.
+Linkuvos g.
+M. Mažvydo g.
+Radvilų dvaro g.
+Kėdainių g.
+Kauno autobusai
+Jūros g.
+Žagarės g.
+Inkaro g.
+Vyžuonos g.
+Atrama
+Gervių g.
+Kaniūkų 1-oji g.
+Kaniūkai ()
+Kaniūkai (Raudondvario pl.)
+42;Technikumo g. - Respublikinė Kauno ligoninė
+Technikumo g.
+Žvalgų g.
+Būrio g.
+2-asis fortas
+Lazdijų g.
+Julijanavos g.
+Europos pr.
+Aleksoto poliklinika
+Vytauto Didžiojo tiltas
+Karaliaus Mindaugo pr.
+Vilniaus g.
+E. Ožeškienės g.
+L. Sapiegos g.
+Studentų skveras
+Gedimino g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+Viadukas
+Dainų slėnis
+Breslaujos g.
+Prancūzų g.
+Žarėnų g.
+Ašmenos 1-oji g.
+Karių kapinės
+Respublikinė Kauno ligoninė
+43;Vičiūnai (Slaugos ligoninė) - Kauno pienas
+Vičiūnai
+K. Griniaus ligoninė
+Vaikų sanatorija
+Baterijos pl.
+Vaidoto g.
+J. Staugaičio g.
+Gailutės g.
+A. Smetonos al.
+Mažoji g.
+Tilto g.
+A. Juozapavičiaus pr.
+Vokiečių g.
+Kranto 13-oji g.
+Talino g.
+Mažeikių g.
+Šančių poliklinika
+Geležinkelio g.
+Geležinkelio tiltas
+Geležinkelio stotis
+Autobusų stotis
+Griunvaldo g.
+Kęstučio g.
+Sporto g.
+Ledo arena
+Utenos g.
+P. Dovydaičio g.
+V. Lašo g.
+Klinikos
+Akių klinika
+Žeimenos g.
+Kalniečių g.
+S. Lozoraičio g.
+Eiguliai
+K. Škirpos g.
+P. Plechavičiaus g.
+Martyno Mažvydo pagrindinė mokykla
+Šiaurinė
+Savanorių pr
+Pramonės pr.
+Kauno kolegija
+Taikos pr.
+Degalinė
+Kauno pienas
+44;Kauno pilis - Liucijanavos g.
+Kauno pilis (Jonavos g.)
+Kauno pilis (Šauklių g.)
+Jurbarko g.
+Kėdainių g.
+Kauno autobusai
+Jūros g.
+Žagarės g.
+Inkaro g.
+Vyžuonos g.
+Atrama
+Gervių g.
+Kaniūkų 1-oji g.
+Raudondvario pl.
+Visvaldės g.
+7-asis kilometras
+Kaniūkai
+Aukštutinių Kaniūkų g.
+Paštuvos g.
+Medekšinės g.
+Romainiai
+Bivylių g.
+Paltiškių g.
+Vijūkų g.
+Šilagirio g.
+Aluonos g.
+Liucijanavos g.
+45;Respublikinė Kauno ligoninė - Palemonas
+Respublikinė Kauno ligoninė
+Karių kapinės
+Ašmenos 1-oji g.
+Žarėnų g.
+Prancūzų g.
+Breslaujos g.
+Pašilės g.
+6-asis fortas
+Girstutis
+Kovo 11-osios gimnazija
+Draugystės parkas
+V. Krėvės pr.
+Kauno kolegija
+Taikos pr.
+Degalinė
+Kauno pienas
+Regitra
+Elektrinė
+Kitron
+Ateities pl.
+Pravienos g.
+Pyvesos g.
+Palemono g.
+46;Šlienava (Žiegždriai) - Geležinkelio stotis
+Šlienava
+Seniūnija
+J. Biliūno g.
+Malūnas
+Gyvenvietė
+Žiegždrių kryžkelė
+Raguoliai
+Girionys
+Užvingių g.
+Vaišvydava
+Piliuonos g.
+Garšvės g.
+Didžioji g
+Rūko g.
+Lentpjūvė
+Vaišvydavos pl.
+Vaidoto g.
+KTU inžinerijos licėjus
+Smėlio g.
+Tilto g.
+Šančių kapinės
+Gudų g.
+Švč. Jėzaus Širdies bažnyčia
+Šančių poliklinika
+Geležinkelio g.
+Geležinkelio tiltas
+Geležinkelio stotis
+47;Kleboniškis - Onkologijos ligoninė (Kreidos g.)
+Kleboniškis
+Palapinių g.
+Vasarvietės g.
+Kleboniškio miško parkas
+Vandentiekis
+Kempingas
+Šiaurės pr.
+Jonavos g.
+Mokyklos bendrabučiai
+Varnių tiltas
+P. Kalpoko g.
+Senukai
+P. Vileišio tiltas
+Kauno pilis
+E. Ožeškienės g.
+L. Sapiegos g.
+Studentų skveras
+Gedimino g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+M. K. Čiurlionio tiltas
+Piliakalnio g.
+Freda
+Geležinkelio pervaža
+Jiesia
+Jiesios pl.
+Karinis dalinys
+Tilto g.
+Smėlio g.
+KTU inžinerijos licėjus
+Kurtinių g.
+Volungių g.
+Onkologijos ligoninė
+48;Raudondvaris - Kauno pilis
+Svarstyklės
+Saulėtekio g.
+Gimnazija
+Raudondvaris
+Raudondvario medelynas
+Kaniūkai
+7-asis kilometras
+Visvaldės g.
+Raudondvario pl.
+Gervių g.
+Atrama (Jovarų g.)
+Lituanica
+Vytauto g.
+Lampėdžiai
+Vytauto g.
+Lituanica
+Atrama (Raudondvario pl.)
+Vyžuonos g.
+Inkaro g.
+Žagarės g.
+Kauno autobusai
+Kėdainių g.
+Jurbarko g.
+Kauno pilis (Šauklių g.)
+Kauno pilis (Jonavos g.)
+49;Kauno pilis - Lampėdžiai
+Kauno pilis (Jonavos g.)
+Kauno pilis (Šauklių g.)
+Jurbarko g.
+Kėdainių g.
+Kauno autobusai
+Jūros g.
+Žagarės g.
+Inkaro g.
+Vyžuonos g.
+Atrama
+Lituanica
+Vytauto g.
+Lampėdžiai
+61;Geležinkelio stotis (Vainatrakio kapinės) - Girininkai
+Geležinkelio stotis
+M. K. Čiurlionio tiltas
+Piliakalnio g.
+Freda
+Geležinkelio pervaža
+Jiesia
+Jiesios pl.
+4-asis fortas
+Draustinis
+Bernardinų Plytinės g.
+Rokai
+Lazdynų g.
+Rokų seniūnija
+2-ieji Rokai
+Paraželiai
+Raželiai
+Vainatrakio kapinės
+Vainatrakis
+Girmuonys
+Girininkai
+63;Kaniūkai - Mega
+Kaniūkai
+Gervių g.
+Atrama
+Vyžuonos g.
+Inkaro g.
+Žagarės g.
+Kauno autobusai
+Kėdainių g.
+Tilžės g.
+Josvainių g.
+Naujakurių g. (Josvainių g.)
+Naujakurių g. (Baltijos g.)
+Apuolės g.
+Žiemgalių g.
+Baltų pr.
+Žemaičių pl.
+Juozo Grušo meno gimnazija
+Jotvingių g.
+Šarkuvos g.
+Biurų centras
+Mega
+Stovėjimo aikštelė
+65;Kazliškiai - Bitininkų g. - Geležinkelio stotis
+Kazliškiai
+Juodelynės g.
+Mokolų g.
+Tirkiliškių g.
+Jonučių g.
+Būrio g.
+2-asis fortas
+Lazdijų g.
+Julijanavos g.
+Europos pr.
+Lygioji g.
+Prezidento V. Adamkaus gimnazija
+Seniavos pl.
+Gvazdikų g.
+Seniavos kapinės
+Seniava
+Titnago g.
+Kreidos g.
+Jiesios kraštovaizdžio draustinis
+Jiesia
+Geležinkelio pervaža
+Freda
+Piliakalnio g.
+M. K. Čiurlionio tiltas
+M.K.Čiurlionio tiltas
+Geležinkelio stotis
+67;Tirkiliškiai - Skubios pagalbos centras
+Tirkiliškiai
+Naujadvario g.
+Tirkiliškių g.
+Mokolų g.
+Juodelynės g.
+Kazliškiai
+Juodelynės g.
+Alšėnų g.
+Pilviškių g.
+Lazdijų g.
+Julijanavos g.
+Europos pr.
+Bitininkų g.
+Ž. E. Žilibero g.
+Vinčų g.
+M. K. Čiurlionio tiltas
+Geležinkelio stotis
+Autobusų stotis
+Griunvaldo g.
+Kęstučio g.
+Sporto g.
+Ledo arena
+Utenos g.
+P. Dovydaičio g.
+V. Lašo g.
+Klinikos
+Akių klinika
+Skubios pagalbos centras
+52;Romainiai - Vaišvydava
+Liucijanavos g.
+Kauno miškų urėdija
+Romainių tuberkuliozės ligoninė
+Ugnės g.
+Romainių 2-osios kapinės
+Romainių 1-osios kapinės
+Prūsų g.
+Labūnavos g.
+Keleivių išlaipinimo aikštelė
+Kauno klinikinė ligoninė
+Naujakurių g.
+Apuolės g.
+Žiemgalių g.
+Baltų pr.
+Žemaičių pl.
+Šilainių poliklinika
+Milikoniai
+Panerių g.
+Vilijampolės turgavietė
+Bijūnų g.
+K. Griniaus g.
+Neries krantinė
+A. Kriščiukaičio g.
+Kauno pilis
+E. Ožeškienės g.
+L. Sapiegos g.
+Studentų skveras
+Gedimino g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+Kaunakiemio g.
+Geležinkelio tiltas
+Geležinkelio g.
+Šančių poliklinika
+Švč. Jėzaus Širdies bažnyčia
+Gudų g.
+Šančių kapinės
+Tilto g.
+Smėlio g.
+KTU inžinerijos licėjus
+Birutės g.
+Vaišvydavos pl.
+Lentpjūvė
+Rūko g.
+Didžioji g.
+Garšvės g.
+Piliuonos g.
+Vaišvydava (Piliuonos g.)
+Užvingių g.
+Vaišvydava
+53;Partizanų g. - Rokai
+Partizanų g.
+Technikos profesinio mokymo centras
+Kauno saulėtekis
+Pramonės pr.
+Savanorių pr.
+Šiaurinė
+Martyno Mažvydo pagrindinė mokykla
+P. Plechavičiaus g.
+S. Žukausko g.
+Ašigalio g.
+Ukmergės g.
+Topolis
+Žeimenos g.
+Akių klinika
+Klinikos
+Eivenių g.
+P. Dovydaičio g.
+K. Petrausko g.
+Ledo arena
+Sporto g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+Kaunakiemio g.
+Geležinkelio tiltas
+Geležinkelio g.
+Šančių poliklinika
+Švč. Jėzaus Širdies bažnyčia
+Gudų g.
+Šančių kapinės
+Tilto g.
+Karinis dalinys
+Jiesios pl.
+4-asis fortas
+Draustinis
+Bernardinų Plytinės g.
+Naujoji g.
+Rokakiemio g.
+Rokai
+Lazdynų g.
+Rokų seniūnija
+54;Sargėnai - Onkologijos ligoninė
+Sargėnai
+Šv. Kazimiero progimnazija
+Vytėnų g.
+Salantų g.
+Smiltynės g.
+Biurų centras
+Mega
+Mega
+Senukai
+Šarkuvos g.
+Šilainių poliklinika
+Milikoniai
+Panerių g.
+Vilijampolės turgavietė
+Jonavos g.
+Nuokalnės g.
+V. Lašo g.
+Klinikos
+V. Lašo g.
+Technikos kolegija
+Kauno aklųjų ir silpnaregių centras
+Mituvos g.
+Ortopedijos technika
+Baldų parduotuvė
+Savas
+Turgavietė
+V. Krėvės pr.
+Kauno kolegija
+Taikos pr.
+Urmas
+Dainava
+Kovo 11-osios gimnazija
+Girstutis
+6-asis fortas
+Pašilės g.
+Breslaujos g. (K.Baršausko g.)
+Breslaujos g. (Breslaujos g.)
+Prancūzų g.
+Žarėnų g.
+Karių kapinės
+Respublikinė Kauno ligoninė
+Kautra
+Šančių poliklinika
+Švč. Jėzaus Širdies bažnyčia
+Gudų g.
+Šančių kapinės
+Tilto g.
+Mažoji g.
+A. Smetonos al.
+Gailutės g.
+J. Staugaičio g.
+Kurtinių g.
+Volungių g.
+Onkologijos ligoninė
+55;Kauno klinikinė ligoninė - Palemonas
+Kauno klinikinė ligoninė
+Naujakurių g.
+Apuolės g.
+Žiemgalių g.
+Baltų pr.
+Žemaičių pl.
+Mosėdžio g.
+9-ojo Forto g.
+Kuršių g.
+Šarkuvos g.
+Jotvingių g.
+Juozo Grušo meno gimnazija
+Šilainių poliklinika
+Milikoniai
+Panerių g.
+Vilijampolės turgavietė
+Jonavos g.
+Sukilėlių pr.
+Klinikos
+Akių klinika
+Žeimenos g.
+Topolis
+Ukmergės g.
+Ašigalio g.
+S. Žukausko g.
+Eiguliai
+Čečėnijos aikštė
+V. Landsbergio-Žemkalnio g.
+Pakraščio g.
+Turgavietė
+V. Krėvės pr.
+Kauno kolegija
+Taikos pr.
+Degalinė
+Kauno pienas
+Regitra
+Elektrinė
+Kitron
+Ateities pl.
+Pravienos g.
+Pyvesos g.
+Palemono g.
+56;Ringaudai - Neveronys
+Tabariškiai
+Ringaudai
+Ringaudų pradinė mokykla
+Gėlių g.
+Varžupio g.
+Akademijos miestelis
+Universiteto bendrabučiai
+Universiteto Mechanikos fakultetas
+Universiteto centriniai rūmai
+Universiteto bendrabučiai
+Žirgynas
+Bublių g.
+Biblioteka
+Marvelė
+Laiptai
+Vytauto Didžiojo tiltas
+Karaliaus Mindaugo pr.
+Vilniaus g.
+E. Ožeškienės g.
+L. Sapiegos g.
+Studentų skveras
+Gedimino g.
+Kęstučio g.
+Griunvaldo g.
+Autobusų stotis
+Geležinkelio stotis
+Viadukas
+Dainų slėnis
+Breslaujos g.
+Pašilės g.
+6-asis fortas
+Petrašiūnų mokymo centras
+Ketaus liejykla
+Kausta
+Kauno keliai
+Amaliai
+Sodai
+Viržių g.
+Naktigonės g.
+Pervaža (Palemono g.)
+Šilėnų g.
+S. Nėries muziejus
+Parko g.
+Palemono keramika
+Keramzito g.
+Neveronių g.
+Pervaža (Keramikų g.)
+Neveronys (Keramikų g.)
+Neveronys
+57;Urmo turgus - Partizanų g. - 9-ojo forto g.
+Urmo turgus
+Kauno pienas
+Kauno pienas
+Garažų g.
+Partizanų g.
+Technikos profesinio mokymo centras
+Kauno saulėtekis
+Kauno kolegija
+Taikos pr.
+Urmas
+Dainava
+Kovo 11-osios gimnazija
+Girstutis
+6-asis fortas
+Pašilės g.
+Breslaujos g.
+Dainų slėnis
+Viadukas
+Geležinkelio stotis (M.K.Čiurlionio g.)
+Geležinkelio stotis (Vytauto pr.)
+Autobusų stotis
+Griunvaldo g.
+Gedimino g.
+S. Daukanto g.
+Muzikinis teatras
+Vilniaus g.
+Kauno pilis
+Ariogalos g.
+Sąjungos aikštė
+Panerių g.
+Varnių g.
+Milikoniai
+Šilainių poliklinika
+Juozo Grušo meno gimnazija
+Jotvingių g.
+Šarkuvos g.
+Kuršių g.
+9-ojo Forto g. (Kuršių g.)
+9-ojo Forto g.
