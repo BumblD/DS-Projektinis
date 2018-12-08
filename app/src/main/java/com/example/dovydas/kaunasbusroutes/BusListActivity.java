@@ -3,8 +3,10 @@ package com.example.dovydas.kaunasbusroutes;
 import BusData.Bus;
 import BusData.DataReader;
 import SparseArray.SparseArrayFixed;
+import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -20,7 +22,15 @@ public class BusListActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bus_list);
 
-            getBusList();
+        TextView tv = findViewById(R.id.textView);
+        tv.setTextColor(Color.BLACK);
+        tv.setTextSize(18);
+        tv.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
+
+        View v = findViewById(R.id.view2);
+        v.setBackgroundColor(Color.DKGRAY);
+
+        getBusList();
     }
 
     private void getBusList() {
@@ -38,7 +48,8 @@ public class BusListActivity extends AppCompatActivity {
             if (arr.get(i) != null) {
                 TextView tv = new TextView(this);
                 tv.setLayoutParams(lparams);
-                tv.setText(i + " -> " + arr.get(i).getRouteName() + "\n");
+                tv.setText("Nr." + i + "   " + arr.get(i).getRouteName() + "\n");
+                tv.setTextColor(Color.BLACK);
                 busLayout.addView(tv);
             }
         }
