@@ -1,7 +1,8 @@
 package com.example.dovydas.kaunasbusroutes;
 
 import BusData.*;
-import SparseArray.SparseArrayFixed;
+import SparseArray.SparseArray;
+import SparseArray.*;
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -15,7 +16,7 @@ import java.util.List;
 
 public class SearchBarActivity extends AppCompatActivity {
 
-    SparseArrayFixed<Bus> arr = new SparseArrayFixed<>(70);
+    SparseArray<Bus> arr = new SparseArray<Bus>(70);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

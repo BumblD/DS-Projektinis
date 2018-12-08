@@ -6,7 +6,7 @@ public interface SparseArrayInterface<E> {
      * Creates and returns a copy of this object.
      * @return
      */
-    SparseArrayFixed<E> clone();
+    SparseArray<E> clone();
 
     /**
      * Puts a key/value pair into the array, optimizing for the case where the key is greater than all existing keys in the array.

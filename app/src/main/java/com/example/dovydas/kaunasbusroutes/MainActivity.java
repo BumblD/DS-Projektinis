@@ -1,7 +1,8 @@
 package com.example.dovydas.kaunasbusroutes;
 
 import BusData.*;
-import SparseArray.SparseArrayFixed;
+import SparseArray.SparseArray;
+import SparseArray.*;
 import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.Typeface;
@@ -18,7 +19,7 @@ import java.io.InputStream;
 
 public class MainActivity extends AppCompatActivity {
 
-    public SparseArrayFixed<Bus> arr = new SparseArrayFixed<>(70);
+    public SparseArray<Bus> arr = new SparseArray<Bus>(70);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -97,7 +98,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 SearchView search = findViewById(R.id.searchView2);
                 String s = search.getQuery().toString();
-                if (android.text.TextUtils.isDigitsOnly(s)) {
+                if (!s.isEmpty() && android.text.TextUtils.isDigitsOnly(s)) {
                     if (arr.get(Integer.parseInt(s)) != null) {
                         Intent searchBarActivity = new Intent(MainActivity.this, SearchBarActivity.class).putExtra("number", s);
                         startActivity(searchBarActivity);

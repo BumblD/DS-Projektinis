@@ -15,7 +15,7 @@ import java.util.List;
 
 public class AllRoutesActivity extends AppCompatActivity {
 
-    SparseArrayFixed<Bus> arr = new SparseArrayFixed<>(70);
+    SparseArray<Bus> arr = new SparseArray<Bus>(70);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

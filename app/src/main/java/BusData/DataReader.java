@@ -1,6 +1,5 @@
 package BusData;
 
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.util.*;
@@ -8,9 +7,16 @@ import SparseArray.*;
 
 public class DataReader {
 
-   public static SparseArrayFixed<Bus> readBusData(InputStream file) throws FileNotFoundException {
+    /**
+     * Reads data from given file to SparseArray
+     *
+     * @param file - file
+     * @return SparseArray
+     * @throws FileNotFoundException
+     */
+   public static SparseArray<Bus> readBusData(InputStream file) throws FileNotFoundException {
 
-        SparseArrayFixed<Bus> arr = new SparseArrayFixed<Bus>(60);
+        SparseArray<Bus> arr = new SparseArray<Bus>(60);
 
         try {
             Scanner sc = new Scanner(file);
@@ -29,9 +35,9 @@ public class DataReader {
                 arr.put(num, bus);
             }
         } catch (InputMismatchException e) {
-            //Ks.ern("Blogas duomenų formatas apie knygą -> " + dataString);
+            //throw new InputMismatchException("Error in input - DataReader.java");
         } catch (NoSuchElementException e) {
-            //Ks.ern("Trūksta duomenų apie knygą -> " + dataString);
+            //throw new NoSuchElementException("There is no such element - DataReader.java");
         }
         return arr;
     }
